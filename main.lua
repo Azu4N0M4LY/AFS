@@ -210,10 +210,10 @@ CreditsSection:addButton("Discord ID", function()
     })
 end)
 
-getgenv().Chakra = false;
-getgenv().Strength = false;
-getgenv().Sword = false;
-getgenv().Durability = false;
+-- getgenv().Chakra = false;
+-- getgenv().Strength = false;
+-- getgenv().Sword = false;
+-- getgenv().Durability = false;
 
 
 local farm = venyx:addPage("Farm")
